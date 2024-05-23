@@ -15,6 +15,9 @@ In this lab we're going to walk through how to create an Active Directory home l
 <h2>Program walk-through:</h2>
 
 <p align="center">
+<img src="https://i.imgur.com/gpohvC1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Download Oracle Virtualbox: <br/>
 <img src="https://i.imgur.com/rWXYC4p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
