@@ -4,13 +4,14 @@ In this lab we're going to walk through how to create an Active Directory home l
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Oracle</b>
 - <b>Powershell</b>
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10 Pro</b> 
-- <b>Windows Server 2019</b> 
+- <b>Windows Server 2019</b>
+- <b>Active Directory</b>
+- <b>Oracle VirtualBox</b>
 
 <h2>Program walk-through:</h2>
 
@@ -18,7 +19,7 @@ In this lab we're going to walk through how to create an Active Directory home l
 <img src="https://i.imgur.com/gpohvC1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Download Oracle Virtualbox: <br/>
+Download Oracle VirtualBox: <br/>
 <img src="https://i.imgur.com/rWXYC4p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
