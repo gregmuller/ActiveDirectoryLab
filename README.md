@@ -22,24 +22,36 @@ Download Windows 10 ISO:  <br/>
 <img src="https://i.imgur.com/bOYGhPH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Label Your Machine "DC": <br/>
+<img src="https://i.imgur.com/eLACBX6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Change "Clipboard" and "Drag'n'Drop" to "Bidirectional":  <br/>
+<img src="https://i.imgur.com/TdP8dLB.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create a NAT in adapter 1:  <br/>
+<img src="https://i.imgur.com/yN3dHFY.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create an internal network in adapter 2 labeled "intnet":  <br/>
+<img src="https://i.imgur.com/GHfSQly.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Verify you Ethernet settings (which ones the internal network and which is the NAT):  <br/>
+<img src="https://i.imgur.com/IRIasTs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Go into Active Directory in the virtual Windows server:  <br/>
+<img src="https://i.imgur.com/vi4vYzC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Create a new user:  <br/>
+<img src="https://i.imgur.com/IiAe6JJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+ 
 </p>
 
 <!--
