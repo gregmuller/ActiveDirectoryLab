@@ -2,7 +2,7 @@
 
 In this lab we're going to walk through how to create a 1000+ user Active Directory home lab environment using Oracle VirtualBox. 
 
-<h2>Languages/Utilities/Evironments Used</h2>
+<h2>Languages/Utilities/Environments Used</h2>
 
 - <b>Windows 10 Pro</b> 
 - <b>Windows Server 2019</b>
