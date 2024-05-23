@@ -5,6 +5,7 @@ In this lab we're going to walk through how to create an Active Directory home l
 <h2>Languages and Utilities Used</h2>
 
 - <b>Oracle</b>
+- <b>Powershell</b>
 
 <h2>Environments Used </h2>
 
@@ -54,6 +55,10 @@ Go to Add Roles in the Server Manager and choose the server:  <br/>
 <img src="https://i.imgur.com/UuAKNHf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+ Login to the new domain:  <br/>
+<img src="https://i.imgur.com/BQK1twi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Go into Active Directory in the virtual Windows server:  <br/>
 <img src="https://i.imgur.com/vi4vYzC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -61,6 +66,47 @@ Go into Active Directory in the virtual Windows server:  <br/>
 Create a new user:  <br/>
 <img src="https://i.imgur.com/IiAe6JJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
+Setup Routing and Remote Access:  <br/>
+<img src="https://i.imgur.com/TTrCp5J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/yc2bQ44.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Set the DHCP Scope:  <br/>
+<img src="https://i.imgur.com/ARngqLk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Use this list of names and run Powershell ISE. Use the script provided and generate users:  <br/>
+<img src="https://i.imgur.com/lBQmyqY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/ywHUu9k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/dBYM3xl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+ br />
+<img src="https://i.imgur.com/DN7LhI6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Use Windows 10 ISO and create "CLIENT 1":  <br/>
+<img src="https://i.imgur.com/gR8n9cr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Check the status using "ipconfig and ping. Set router properties". Address lease set to eight days:  <br/>
+<img src="https://i.imgur.com/NTRtgFH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/YnbN5lR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Boot CLIENT 1 and verify gmuller. SUCCESS:  <br/>
+<img src="https://i.imgur.com/SeMFjBN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/r9V0vGA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
  
