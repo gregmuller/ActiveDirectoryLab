@@ -14,12 +14,12 @@ In this lab we're going to walk through how to create an Active Directory home l
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Download Oracle Virtualbox: <br/>
 <img src="https://i.imgur.com/rWXYC4p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download Windows 10 ISO:  <br/>
+<img src="https://i.imgur.com/bOYGhPH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
