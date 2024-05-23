@@ -1,17 +1,14 @@
 <h1>Active Directory Home Lab</h1>
 
-In this lab we're going to walk through how to create an Active Directory home lab environment using Oracle Virtual Box. 
+In this lab we're going to walk through how to create a 1000+ user Active Directory home lab environment using Oracle VirtualBox. 
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>Powershell</b>
-
-<h2>Environments Used </h2>
+<h2>Languages/Utilities/Evironments Used</h2>
 
 - <b>Windows 10 Pro</b> 
 - <b>Windows Server 2019</b>
-- <b>Active Directory</b>
 - <b>Oracle VirtualBox</b>
+- <b>Active Directory</b>
+- <b>Powershell</b>
 
 <h2>Program walk-through:</h2>
 
