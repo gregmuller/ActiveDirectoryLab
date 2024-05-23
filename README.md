@@ -42,6 +42,18 @@ Verify you Ethernet settings (which ones the internal network and which is the N
 <img src="https://i.imgur.com/IRIasTs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Input IP address and Subnet mask:  <br/>
+<img src="https://i.imgur.com/SwsJTlx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Go to Add Roles in the Server Manager and choose the server:  <br/>
+<img src="https://i.imgur.com/dG5fn9Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Create a Root domain name:  <br/>
+<img src="https://i.imgur.com/UuAKNHf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Go into Active Directory in the virtual Windows server:  <br/>
 <img src="https://i.imgur.com/vi4vYzC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
