@@ -40,7 +40,7 @@ Create an internal network in adapter 2 labeled "intnet":  <br/>
 <img src="https://i.imgur.com/GHfSQly.jpeg" height="80%" width="80%"/>
 <br />
 <br />
-Verify you Ethernet settings (which ones the internal network and which is the NAT):  <br/>
+Verify your Ethernet settings (which ones the internal network and which is the NAT):  <br/>
 <img src="https://i.imgur.com/IRIasTs.png" height="80%" width="80%"/>
 <br />
 <br />
