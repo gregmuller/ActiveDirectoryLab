@@ -28,7 +28,7 @@ Label Your Machine "DC" for "Domain Controller": <br/>
 <img src="https://i.imgur.com/eLACBX6.png" height="80%" width="80%"/>
 <br />
 <br />
-Change "Clipboard" and "Drag'n'Drop" to "Bidirectional" This will allow you to drag and drop files from your computer into the virtual machine.:  <br/>
+Change "Clipboard" and "Drag'n'Drop" to "Bidirectional" This will allow you to drag and drop files from your computer into the virtual machine:  <br/>
 <img src="https://i.imgur.com/TdP8dLB.jpeg" height="80%" width="80%"/>
 <br />
 <br />
