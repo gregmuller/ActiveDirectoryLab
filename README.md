@@ -60,7 +60,7 @@ Go to Add Roles in the Server Manager and choose the server. Make sure to check 
 <img src="https://i.imgur.com/BQK1twi.png" height="80%" width="80%"/>
 <br />
 <br />
-Go into Active Directory in the virtual Windows server:  <br/>
+Go to start into Active Directory Users and Computers in the virtual Windows server:  <br/>
 <img src="https://i.imgur.com/vi4vYzC.png" height="80%" width="80%"/>
 <br />
 <br />
