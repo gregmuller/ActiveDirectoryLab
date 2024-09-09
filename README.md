@@ -24,7 +24,7 @@ Download Windows 10 ISO:  <br/>
 <img src="https://i.imgur.com/bOYGhPH.png" height="80%" width="80%"/>
 <br />
 <br />
-Label Your Machine "DC": <br/>
+Label Your Machine "DC" for "Domain Controller": <br/>
 <img src="https://i.imgur.com/eLACBX6.png" height="80%" width="80%"/>
 <br />
 <br />
