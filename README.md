@@ -32,7 +32,7 @@ Change "Clipboard" and "Drag'n'Drop" to "Bidirectional" This will allow you to d
 <img src="https://i.imgur.com/TdP8dLB.jpeg" height="80%" width="80%"/>
 <br />
 <br />
-Create a NAT in adapter 1. This will connect to your home internet:  <br/>
+Create a NAT (Network Address Translation) in adapter 1. This will connect to your home internet:  <br/>
 <img src="https://i.imgur.com/yN3dHFY.jpeg" height="80%" width="80%"/>
 <br />
 <br />
