@@ -48,7 +48,7 @@ Input IP address and Subnet mask. Use loopback address 127.0.0.1 in the DNS Serv
 <img src="https://i.imgur.com/SwsJTlx.png" height="80%" width="80%"/>
 <br />
 <br />
-Go to Add Roles in the Server Manager and choose the server:  <br/>
+Go to Add Roles in the Server Manager and choose the server. Make sure to check mark "active domain services" after. Hit next until install appears:  <br/>
 <img src="https://i.imgur.com/dG5fn9Q.png" height="80%" width="80%"/>
 <br />
 <br />
