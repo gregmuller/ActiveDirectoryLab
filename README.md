@@ -44,7 +44,7 @@ Verify your Ethernet settings (which ones the internal network and which is the 
 <img src="https://i.imgur.com/IRIasTs.png" height="80%" width="80%"/>
 <br />
 <br />
-Input IP address and Subnet mask:  <br/>
+Input IP address and Subnet mask. Use loopback address 127.0.0.1 in the DNS Server or 169.254.209.133 to loop to the computer to itself:  <br/>
 <img src="https://i.imgur.com/SwsJTlx.png" height="80%" width="80%"/>
 <br />
 <br />
