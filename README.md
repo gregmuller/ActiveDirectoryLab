@@ -40,7 +40,7 @@ Create an internal network in adapter 2 labeled "intnet":  <br/>
 <img src="https://i.imgur.com/GHfSQly.jpeg" height="80%" width="80%"/>
 <br />
 <br />
-Verify your Ethernet settings (which ones the internal network and which is the NAT) The internal network would be the 172.16.0.1, while the Nic would be the 169. address:  <br/>
+Verify your Ethernet settings (which ones the internal network and which is the NAT) The internal network would be the 172.16.0.1, while the NAT would be the 169.254.209.133 from the home network:  <br/>
 <img src="https://i.imgur.com/IRIasTs.png" height="80%" width="80%"/>
 <br />
 <br />
