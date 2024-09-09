@@ -52,7 +52,7 @@ Go to Add Roles in the Server Manager and choose the server. Make sure to check 
 <img src="https://i.imgur.com/dG5fn9Q.png" height="80%" width="80%"/>
 <br />
 <br />
- Click the Flag with the yellow triangle to create the domain. Select "Add new forest" and create a Root domain name. Type in Password1 for the password, hot next and install:  <br/>
+ Click the Flag with the yellow triangle to create the domain. Select "Add new forest" and create a Root domain name. Type in Password1 for the password, hit next and install:  <br/>
 <img src="https://i.imgur.com/UuAKNHf.png" height="80%" width="80%"/>
 <br />
 <br />
