@@ -64,7 +64,7 @@ Go to start into Active Directory Users and Computers in the virtual Windows ser
 <img src="https://i.imgur.com/vi4vYzC.png" height="80%" width="80%"/>
 <br />
 <br />
-Create a new user:  <br/>
+Go into "mydomain.com". Select "New" and "Organizational Unit". Label the folder _ADMINS and uncheck "Protect container from accidental deletion" and create a new user:  <br/>
 <img src="https://i.imgur.com/IiAe6JJ.png" height="80%" width="80%"/>
 <br />
 <br />
