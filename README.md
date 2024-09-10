@@ -91,6 +91,7 @@ Type into Power Shell "Set-ExecutionPolicy Unrestricted" and hit "enter" and "ye
 <img src="https://i.imgur.com/dBYM3xl.png" height="80%" width="80%"/>
 <br />
 <br />
+Type "cd c:\users\a-gmuller\desktop\AD_PS-master". Hit enter and type "ls" to check for names.txt is transfered in. Select play button and "Run Once": <br/>
 <img src="https://i.imgur.com/DN7LhI6.png" height="80%" width="80%"/>
 <br />
 <br />
