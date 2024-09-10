@@ -99,11 +99,12 @@ Create a new virtual machine called "CLIENT 1" and use the Windows ISO:  <br/>
 <img src="https://i.imgur.com/gR8n9cr.png" height="80%" width="80%"/>
 <br />
 <br />
+ Verify the Router options are correct: <br/>
+<img src="https://i.imgur.com/YnbN5lR.png" height="80%" width="80%"/>
+<br />
+<br />
 Open the command line under "Start" and check the status using "ipconfig" and "ping" www.google.com:  <br/>
 <img src="https://i.imgur.com/NTRtgFH.png" height="80%" width="80%"/>
-<br />
-<br />
-<img src="https://i.imgur.com/YnbN5lR.png" height="80%" width="80%"/>
 <br />
 <br />
 Boot CLIENT 1 and verify gmuller. SUCCESS:  <br/>
