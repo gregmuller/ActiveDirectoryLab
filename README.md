@@ -68,7 +68,7 @@ Go into "mydomain.com". Select "New" and "Organizational Unit". Label the folder
 <img src="https://i.imgur.com/IiAe6JJ.png" height="80%" width="80%"/>
 <br />
 <br />
-Setup Routing and Remote Access:  <br/>
+Select Add Roles and Features. Hit "Next" until you see a list with "Remote Access" as a checkbox and the "Routing" checkbox. Setup Routing and Remote Access:  <br/>
 <img src="https://i.imgur.com/TTrCp5J.png" height="80%" width="80%"/>
 <br />
 <br />
