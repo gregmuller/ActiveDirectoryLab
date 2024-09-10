@@ -44,7 +44,7 @@ Verify your Ethernet settings (which ones the internal network and which is the 
 <img src="https://i.imgur.com/IRIasTs.png" height="80%" width="80%"/>
 <br />
 <br />
-Input IP address and Subnet mask. Use loopback address 127.0.0.1 in the DNS Server or 169.254.209.133 to loop to the computer to itself:  <br/>
+Input IP address and Subnet mask. Use loopback address 127.0.0.1 in the DNS Server or 169.254.209.133 to loop to the computer to itself. Go to Server options under IPV4 and add "003 Router" and add the domain IP address 172.16.0.1:  <br/>
 <img src="https://i.imgur.com/SwsJTlx.png" height="80%" width="80%"/>
 <br />
 <br />
@@ -99,7 +99,7 @@ Create a new virtual machine called "CLIENT 1" and use the Windows ISO:  <br/>
 <img src="https://i.imgur.com/gR8n9cr.png" height="80%" width="80%"/>
 <br />
 <br />
-Check the status using "ipconfig and ping. Set router properties".:  <br/>
+Open the command line under "Start" and check the status using "ipconfig" and "ping" www.google.com:  <br/>
 <img src="https://i.imgur.com/NTRtgFH.png" height="80%" width="80%"/>
 <br />
 <br />
