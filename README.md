@@ -107,7 +107,7 @@ Open the command line under "Start" and check the status using "ipconfig" and "p
 <img src="https://i.imgur.com/NTRtgFH.png" height="80%" width="80%"/>
 <br />
 <br />
-Boot CLIENT 1 and verify gmuller. SUCCESS:  <br/>
+Click "Change" and add "CLIENT 1" as the computer name in System Properties and add "mydomain.com" to the Member of Domain section. Restart and reboot CLIENT 1 and verify gmuller. SUCCESS:  <br/>
 <img src="https://i.imgur.com/SeMFjBN.png" height="80%" width="80%"/>
 <br />
 <br />
