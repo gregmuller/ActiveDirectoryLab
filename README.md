@@ -64,7 +64,7 @@ Go to start into Active Directory Users and Computers in the virtual Windows ser
 <img src="https://i.imgur.com/vi4vYzC.png" height="80%" width="80%"/>
 <br />
 <br />
-Go into "mydomain.com". Select "New" and "Organizational Unit". Label the folder _ADMINS and uncheck "Protect container from accidental deletion" and create a new user. User Login name should be a-gmuller. Click a-gmuller, select properties, member of, add. Type "domain admins" and click check names. Log out and return:  <br/>
+Go into "mydomain.com". Select "New" and "Organizational Unit". Label the folder _ADMINS and uncheck "Protect container from accidental deletion" and create a new user. User Login name should be a-gmuller. Click a-gmuller, select properties, member of, add. Type "domain admins" and click check names. Log out and log into other user with a-gmuller and Password1:  <br/>
 <img src="https://i.imgur.com/IiAe6JJ.png" height="80%" width="80%"/>
 <br />
 <br />
