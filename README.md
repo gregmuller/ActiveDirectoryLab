@@ -72,6 +72,7 @@ Select Add Roles and Features. Hit "Next" until you see a list with "Remote Acce
 <img src="https://i.imgur.com/TTrCp5J.png" height="80%" width="80%"/>
 <br />
 <br />
+ Select DC Local and Configure and Enable Routing and Remote Access.
 <img src="https://i.imgur.com/yc2bQ44.png" height="80%" width="80%"/>
 <br />
 <br />
