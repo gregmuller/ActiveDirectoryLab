@@ -72,7 +72,7 @@ Select Add Roles and Features. Hit "Next" until you see a list with "Remote Acce
 <img src="https://i.imgur.com/TTrCp5J.png" height="80%" width="80%"/>
 <br />
 <br />
- Select "DC Local" and "Configure and Enable Routing and Remote Access". Click "NAT" and select "INTERNET" as the interface: <br/>
+Select "DC Local" and "Configure and Enable Routing and Remote Access". Click "NAT" and select "INTERNET" as the interface: <br/>
 <img src="https://i.imgur.com/yc2bQ44.png" height="80%" width="80%"/>
 <br />
 <br />
@@ -84,6 +84,7 @@ Use this list of names in the folder "AD_PS-master" and run Powershell ISE. Use 
 <img src="https://i.imgur.com/lBQmyqY.png" height="80%" width="80%"/>
 <br />
 <br />
+Type into Power Shell "Set-ExecutionPolicy Unrestricted" and hit "enter" and "yes to all" to allow the execution of all scripts: <br/>
 <img src="https://i.imgur.com/ywHUu9k.png" height="80%" width="80%"/>
 <br />
 <br />
