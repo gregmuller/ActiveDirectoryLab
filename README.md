@@ -80,7 +80,7 @@ Select Add Roles and Features. Hit "Next" until you see a list with "Remote Acce
 <img src="https://i.imgur.com/ARngqLk.png" height="80%" width="80%"/>
 <br />
 <br />
-Use this list of names and run Powershell ISE. Use the script provided and generate users:  <br/>
+Use this list of names in the folder "AD_PS-master" and run Powershell ISE. Use the script provided and generate users:  <br/>
 <img src="https://i.imgur.com/lBQmyqY.png" height="80%" width="80%"/>
 <br />
 <br />
