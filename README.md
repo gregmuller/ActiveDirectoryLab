@@ -95,7 +95,7 @@ Type "cd c:\users\a-gmuller\desktop\AD_PS-master". Hit enter and type "ls" to ch
 <img src="https://i.imgur.com/DN7LhI6.png" height="80%" width="80%"/>
 <br />
 <br />
-Use Windows 10 ISO and create "CLIENT 1":  <br/>
+Create a new virtual machine called "CLIENT 1" and use the Windows ISO:  <br/>
 <img src="https://i.imgur.com/gR8n9cr.png" height="80%" width="80%"/>
 <br />
 <br />
