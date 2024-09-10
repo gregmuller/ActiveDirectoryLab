@@ -90,7 +90,7 @@ Use this list of names in the folder "AD_PS-master" and run Powershell ISE. Use 
 Type into Power Shell "Set-ExecutionPolicy Unrestricted" and hit "enter" and "yes to all" to allow the execution of all scripts: <br/>
 <img src="https://i.imgur.com/dBYM3xl.png" height="80%" width="80%"/>
 <br />
- br />
+<br />
 <img src="https://i.imgur.com/DN7LhI6.png" height="80%" width="80%"/>
 <br />
 <br />
