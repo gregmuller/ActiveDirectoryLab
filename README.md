@@ -76,7 +76,7 @@ Select Add Roles and Features. Hit "Next" until you see a list with "Remote Acce
 <img src="https://i.imgur.com/yc2bQ44.png" height="80%" width="80%"/>
 <br />
 <br />
-(Setting Up DHCP Server) Click "Add Roles and Features" Select "DHCP" checkbox and install. Set the DHCP Scope:  <br/>
+(Setting Up DHCP Server) Click "Add Roles and Features" Select "DHCP" checkbox and install. Set the DHCP Scope by selecting "Tools" and "DHCP". Click on the server and select "New Scope":  <br/>
 <img src="https://i.imgur.com/ARngqLk.png" height="80%" width="80%"/>
 <br />
 <br />
