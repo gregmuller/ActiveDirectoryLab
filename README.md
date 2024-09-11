@@ -13,7 +13,7 @@ In this lab we're going to walk through how to create a 1000+ user Active Direct
 <h2>Program walk-through:</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/gpohvC1.png" height="80%" width="80%"/>
+<img src="https://imgur.com/JfUk3Qs.png" height="80%" width="80%"/>
 <br />
 <br />
 Download Oracle VirtualBox: <br/>
